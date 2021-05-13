@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Categories
-permalink: /categories/
+title: blog
+permalink: /blog/
 ---
 
 <div>
