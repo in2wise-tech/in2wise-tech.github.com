@@ -3,7 +3,7 @@ title: IN2WISE TECH # your site title
 author: WHUI KIM # You :P
 description: > # Meta description of Homepage
   Welcome to our tech blog. 
-baseurl: "/blog" # the subpath of your site, e.g. /blog
+baseurl: "/" # the subpath of your site, e.g. /blog
 url: "https://in2wise-tech.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
 
 # Whui Kim
