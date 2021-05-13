@@ -20,7 +20,7 @@ Katacoda를 활용하여 Kubernetes를 맛보기를 해보겠습니다.
 
 [Hello Minikube](https://kubernetes.io/docs/tutorials/hello-minikube/) 페이지에서 ***Launch Terminal*** 을 클릭하면 아래 그림과 같이 터미널이 열리며, 초기 세팅이 진행됩니다.
 
-![image](assets/img/posts/2021-05-14-01.PNG)
+![image]({{"/assets/img/posts/2021-05-14-01.PNG"| relative_url}})
 
 
 
