@@ -1,8 +1,7 @@
 # SITE CONFIGURATION
-title: IN2WISE TECH # your site title
+title: TECH # your site title
 author: WHUI KIM # You :P
-description: > # Meta description of Homepage
-  Welcome to our tech blog. 
+description: Welcome to our tech blog. 
 baseurl: "/" # the subpath of your site, e.g. /blog
 url: "https://in2wise-tech.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
 
@@ -18,8 +17,7 @@ navigation: # Navigation links
   - {name: 'Blog', link: '/blog'}
   - {name: 'Contact', link: '/contact'}
 
-tagline: >
-  Artificial Intelligence Platform Leader.
+tagline: Artificial Intelligence Platform Leader.
 
 hero_img: posts/sleek_lg.jpg # Main background image: use the path from /assets/img/ => This will output /assets/img/posts/sleek_lg.jpg
 
