@@ -52,7 +52,7 @@ exclude:
   - sleek.jpg
 
 include: ['_pages']
-permalink: /:title/
+permalink: /blog/:title/
 
 compress_html:
   clippings: all
