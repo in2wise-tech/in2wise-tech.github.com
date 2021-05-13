@@ -3,7 +3,7 @@ layout: post
 title: 01.Hello Minikube
 summary: 쿠버네티스 튜토리얼
 featured-img: 
-blog: 01.Kubernetes
+categories: 01.Kubernetes
 ---
 
 From [Kubernetes/Tutorials/Hello Minikube](https://kubernetes.io/docs/tutorials/hello-minikube/)
