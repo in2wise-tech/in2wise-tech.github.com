@@ -1,3 +1,20 @@
+# install ruby
+https://rubyinstaller.org/downloads/
+
+choose 3, install with mingw
+
+# check ruby
+ruby -v
+
+# install 
+gem install jekyll bundler
+
+# Reference
+https://velog.io/@zawook/Github-%EB%B8%94%EB%A1%9C%EA%B7%B8-%EB%A7%8C%EB%93%A4%EA%B8%B0-1
+
+# Fork from
+https://github.com/janczizikow/sleek
+
 # Sleek
 
 [![Gem Version](https://badge.fury.io/rb/jekyll-sleek.svg)](https://badge.fury.io/rb/jekyll-sleek) [![Build Status](https://travis-ci.org/janczizikow/sleek.svg?branch=master)](https://travis-ci.org/janczizikow/sleek) [![license](https://img.shields.io/github/license/mashape/apistatus.svg)](https://github.com/janczizikow/sleek)
