@@ -13,7 +13,7 @@ gem install jekyll bundler
 https://archuive.tistory.com/3
 https://velog.io/@zawook/Github-%EB%B8%94%EB%A1%9C%EA%B7%B8-%EB%A7%8C%EB%93%A4%EA%B8%B0-1
 https://velog.io/@zawook/Github-%EB%B8%94%EB%A1%9C%EA%B7%B8-%EB%A7%8C%EB%93%A4%EA%B8%B0-2
-https://velog.io/@zlor26/npm-install-%EB%95%8C-%EB%B0%9C%EC%83%9D%ED%95%98%EB%8A%94-%EC%97%90%EB%9F%AC%EC%82%AC%ED%95%AD
+https://m.blog.naver.com/PostView.nhn?blogId=captpro&logNo=221866509281&proxyReferer=https:%2F%2Fwww.google.com%2F (https://velog.io/@zlor26/npm-install-%EB%95%8C-%EB%B0%9C%EC%83%9D%ED%95%98%EB%8A%94-%EC%97%90%EB%9F%AC%EC%82%AC%ED%95%AD)
 # Fork from
 https://github.com/janczizikow/sleek
 
